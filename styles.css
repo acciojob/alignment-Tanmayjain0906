@@ -1,15 +1,12 @@
 /*  your css code here. If applicable */
 .left{
 	text-align: left;
-	padding-right: 160px;
 }
 .center{
-	padding-right: 80px;
-	padding-left: 80px;
+	text-align: center;
 }
 .right{
 	text-align: right;
-	padding-left: 160px;
 }
 .table3head{
 	background-color: green;
