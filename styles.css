@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.left{
+	text-align: left;
+	padding-right: 80px;
+}
+.center{
+	text-align: center;
+	padding-right: 80px;
+}
+.right{
+	text-align: right;
+	padding-right: 80px;
+}
+.heading{
+    padding-left: 15px;
+	 padding-right: 15px;
+}
