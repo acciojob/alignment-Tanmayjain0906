@@ -11,7 +11,9 @@
 	text-align: right;
 	padding-right: 80px;
 }
-.heading{
-    padding-left: 15px;
-	 padding-right: 15px;
+.table3head{
+	background-color: green;
+}
+.table3lastcol{
+	background-color: blue;
 }
